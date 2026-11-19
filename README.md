@@ -35,9 +35,9 @@ The Students page introduces selected members of ITE 18 through individual stude
 
 ![Students Page - Part 1](screenshots/StudentsPage_1.png)
 
-![Students Page - Part 2](screenshots/StudentsPage_2.png)
+![Students Page - Part 2](screenshots/StudentPage_2.png)
 
-![Students Page - Part 3](screenshots/StudentsPage_3.png)
+![Students Page - Part 3](screenshots/StudentPage_3.png)
 
 ---
 
